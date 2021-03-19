@@ -9,5 +9,6 @@ npx create-react-app calculator
 cd calculator
 git remote add origin https://github.com/dwightfowler/calculator.git
 npm start
-git pull origin master 
+git pull origin master
+
 ~~~~
